@@ -1,7 +1,7 @@
 <style>
  #title {
     font-size: xx-large;
-    color: white;
+    color: black;
     mix-blend-mode: difference;
  }
 </style>
